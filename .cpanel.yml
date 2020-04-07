@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/ekocsmahu/public_html/
+    - export DEPLOYPATH=/home/ekocsmah/public_html/
     - /bin/cp -r * $DEPLOYPATH
